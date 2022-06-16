@@ -1,4 +1,4 @@
-# main_project 基座应用 2022-06-07
+# main_project 基座应用 
 
 ## Project setup
 ```
