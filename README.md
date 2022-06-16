@@ -1,4 +1,4 @@
-# main_project 基座应用 
+# qiankun_main_project 基座应用 
 
 ## Project setup
 ```
